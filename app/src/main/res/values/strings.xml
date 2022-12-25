@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="say_hello">Say Hello</string>
+    <string name="oli_intro">Hello World! My name is Olivia Che. I love cats, watching anime, and K-Pop dancing!</string>
+    <string name="resp_txt">Hello to you too!</string>
+</resources>
